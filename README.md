@@ -3,6 +3,8 @@
 - This project serves as the backend API for a React application.
 
 - It provides full CRUD functionality through RESTful endpoints using HTTP methods such as GET, POST, PUT, and DELETE.
+  
+- Frontend React Application: https://github.com/Divyadevaki/CRUD_ReactViteApp.git
 
 ## HTTP GET – Retrieve Data
 
